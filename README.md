@@ -2,6 +2,24 @@
 
 Blade Trial is a small top-down pixel action game built in Godot using GDScript. I created it as a beginner game-development project for my Tech Transition Roadmap.
 
+## Screenshots
+
+### Combat
+
+![Sword combat](combat.png)
+
+### Exit Unlocked
+
+![Unlocked exit](exit-unlocked.png)
+
+### Victory
+
+![Victory screen](victory!.png)
+
+## Gameplay Video
+
+[Watch the gameplay demonstration](Gameplay.mp4)
+
 ## Gameplay
 
 The player must defeat three slimes using a directional sword attack. Defeating every slime unlocks the exit and allows the player to complete the level.

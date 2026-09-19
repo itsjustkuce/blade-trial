@@ -9,7 +9,6 @@ func _ready() -> void:
 
 func take_damage(amount: int) -> void:
 	health -= amount
-	print("Slime health: ", health)
 
 	if health <= 0:
 		defeated.emit()
